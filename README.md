@@ -4,6 +4,14 @@ Hi! This is a repository for anyone who wants a base to create bots for sites li
 If you still want to use it, you should refactor a small part to use libraries like **puppeteer** and API to bypass the re-captcha (they are paid).
 You can also set the re-captcha to open the browser with puppeteer when necessary, but this will not be 100% automated.
 
+## Advantages of use
+- Support for multiple accounts
+- Can actively participate in a giveaway either on the website or Discord
+- Clean and easy to understand code
+- Great scalability given the structure of the code
+- No need to open browser tabs to have multiple accounts
+- Highly configurable by index.ts file code.
+
 ## Setting up the project.
 To run the project on your machine, you must first clone it and then access the folder and run the command 
 
